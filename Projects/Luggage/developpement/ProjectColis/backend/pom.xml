@@ -11,6 +11,7 @@
 
     <artifactId>backend</artifactId>
     <packaging>pom</packaging>
+    <name>COLIS BACKEND</name>
     <modules>
         <module>spring</module>
     </modules>
