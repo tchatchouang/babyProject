@@ -13,8 +13,6 @@
     <packaging>pom</packaging>
     <name>COLIS BACKEND</name>
     <modules>
-        <module>spring</module>
+        <module>colis</module>
     </modules>
-
-
 </project>
